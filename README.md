@@ -1,5 +1,7 @@
 # From Intent to Improvement: Agentic Dataset Search for Better Model Training
 
+![AgenticDS framework: intent-driven planning, bounded retrieval execution, and evidence-grounded verification.](assets/agenticds-framework.png)
+
 This repository provides the implementation of **AgenticDS** and the **HuDS-Bench** dataset search benchmark for the paper **From Intent to Improvement: Agentic Dataset Search for Better Model Training**.
 
 [Repository](https://github.com/nju-websoft/AgenticDS) | [HuDS-Bench](HuDS-Bench/) | [Usage](#usage)
